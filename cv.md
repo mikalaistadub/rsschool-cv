@@ -51,3 +51,13 @@ My profile CodeWars [https://www.codewars.com/users/mikalai](https://www.codewar
 ### Education ###
 
 Higher education. Minsk State Higher College of Radio Engineering.
+
+**Qualification**
+
+Front-end development courses from May 2018 to September. IT school [MyFreedom](https://myfreedom.by/) (HTML5, CSS3, Bootstrap Framework, JavaScript(API, DOM events, Node.JS, NPM, WebPack)
+
+---
+
+After studying the front-end development, my goal is to learn English to B2 level and above. At the moment, my level of English is A2. 
+
+There is an experience of remote communication with developers from the Czech Republic. Communication took place in English through email correspondence as well as Skype chat rooms.
